@@ -30,4 +30,10 @@ Fill in your credentials the config file. Then run the application with:
 
 ```shell
 $ bundle exec rackup
+
+
+Or, to Deploy to Heroku, just click the purple button below. Input your credentials into the Heroku
+set up page and click deploy.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/mickstevens/twilio-taskrouter-ruby)
 ```
